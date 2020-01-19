@@ -32,12 +32,12 @@ composer require novay/notifier-module
 
 2. Done
 
-> Make sure you have configured your [Laravel Mail](https://laravel.com/docs/master/mail) running correctly to get an email.
+> Make sure you have configured your [Laravel Mail](https://laravel.com/docs/master/mail) correctly to see this magic happen.
 
 ## Screenshots
-![Email Notification](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-exception-notifier/exception-error-email-min.jpeg)
+![Email Notification](https://raw.githubusercontent.com/novay/novay-gallery/master/notifier-module.png)
 
 ## License
 Notifier Modules is licensed under the MIT license and originaly owned by [Jeremy Kenedy](https://github.com/jeremykenedy) for both personal and commercial products. Enjoy!
 
-### Running smoothly on Laravel 6+
+#### Running smoothly on Laravel 6+
