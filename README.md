@@ -45,4 +45,4 @@ composer require novay/notifier-module
 Notifier Modules is licensed under the MIT license and originaly owned by [Jeremy Kenedy](https://github.com/jeremykenedy) for both personal and commercial products. Enjoy!
 
 ##### For package version, you can find [here](https://github.com/novay/laravel-exception-notifier)
-##### Running smoothly on Laravel 6+
+##### Tested & running smoothly on Laravel 6+
