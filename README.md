@@ -14,7 +14,7 @@ Table of contents:
 - [License](#license)
 
 ## About
-Laravel exception notifier will send an email of the error along with the stack trace to the chosen recipients. [This Package](https://packagist.org/packages/novay/notifier-module) includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8 or 6+.
+[This Package](https://packagist.org/packages/novay/notifier-module) includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8 or 6+.
 
 Get the errors and fix them before the client even reports them, that's why this exists!
 
