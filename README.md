@@ -34,6 +34,10 @@ composer require novay/notifier-module
 
 > Make sure you have configured your [Laravel Mail](https://laravel.com/docs/master/mail) correctly to see this magic happen.
 
+3. Configuration (Next Step)
+
+> This file config can be found on `Module\Config\config.php`. You can enable/disable this module from there or to specify the e-mail address that will receive notifications.
+
 ## Screenshots
 ![Email Notification](https://raw.githubusercontent.com/novay/novay-gallery/master/notifier-module.png)
 
