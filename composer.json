@@ -1,0 +1,44 @@
+{
+    "name": "novay/notifier-module",
+    "description": "Laravel exception notifier will send an email of the error along with the stack trace to the chosen recipients.",
+    "keywords": [
+        "laravel",
+        "exception",
+        "notification",
+        "email",
+        "email-notifications",
+        "email-notification",
+        "laravel-exceptions",
+        "exception-handler",
+        "exception-email",
+        "exception-emails",
+        "exception-messages"
+    ],
+    "license": "MIT",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "jeremykenedy",
+            "email": "jeremykenedy@gmail.com"
+        }, 
+        {
+            "name": "Noviyanto Rahmadi",
+            "email": "novay@btekno.id"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Notifier\\Providers\\NotifierServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Notifier\\": ""
+        }
+    }
+}
