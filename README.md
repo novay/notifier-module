@@ -26,9 +26,9 @@ Get the errors and fix them before the client even reports them, that's why this
 ## Installation Instructions
 1. Install Package Via Composer
 
-    ```
-        composer require novay/notifier-module
-    ```
+```
+composer require novay/notifier-module
+```
 
 2. Done
 
