@@ -32,7 +32,7 @@ composer require novay/notifier-module
 
 2. Done
 
-> Make sure you have set your Laravel Mail Configuration running correctly to get an email.
+> Make sure you have configured your [Laravel Mail](https://laravel.com/docs/master/mail) running correctly to get an email.
 
 ## Screenshots
 ![Email Notification](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-exception-notifier/exception-error-email-min.jpeg)
